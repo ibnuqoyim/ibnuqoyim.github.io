@@ -72,9 +72,9 @@ var skills = map[string][]string{
 
 #### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- 🌐 [Personal Website](https://your-website.com)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/muhamad-ibnu-qoyim/)
+- 🌐 [Personal Website](https://ibnuqoyim.github.io)
+- 📧 [Email](mailto:muhamadibnu9@gmail.com)
 
 ---
 
