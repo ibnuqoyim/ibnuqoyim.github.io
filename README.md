@@ -68,7 +68,7 @@ var skills = map[string][]string{
 
 #### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuqoyim&show_icons=true&theme=dark)
 
 #### 📫 Let's Connect
 
